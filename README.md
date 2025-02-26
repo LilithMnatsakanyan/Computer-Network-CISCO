@@ -2,8 +2,7 @@
 
 This project focuses on designing and implementing a computer network for an insurance company using **Cisco Packet Tracer**. It serves as coursework for my third year of university and is based on the territory of **Armenia**.  
 
-### **Project Overview**  
-The insurance company consists of **five main offices** in Yerevan, Charentsavan, Vedi, Aparan, and Vardenis, along with **17 branches** that cater to customer needs across the country.
+The project involves **five main offices** in Yerevan, Charentsavan, Vedi, Aparan, and Vardenis, along with **17 branches** that cater to customer needs across the country. A visual slideshow is also available to better illustrate the design and implementation process of the network.
 
 ---
 
@@ -79,4 +78,8 @@ DNS translates **human-readable domain names** (like **google.com**) into **IP a
 ### **Uniform Resource Locator (URL)**  
 A **URL** is a web address that identifies the location of a resource on the Internet and the protocol used to retrieve it.
 
+---
 
+## **📸 Visual Slideshow**  
+
+To further illustrate the network design and its components, a **slideshow** has been created. It visually shows the steps of implementing the network, from planning to final deployment. You can refer to this slideshow for an easy-to-understand view of the work done.
